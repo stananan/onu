@@ -1,0 +1,12 @@
+.chat {
+    border: 1px solid black;
+    width: 80%;
+    height: 300px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.chat span {
+    float: right;
+}
